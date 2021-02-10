@@ -26,7 +26,7 @@ namespace ExamplePlugin
             {
                 Context.Server.StopServer();
             });
-            Console.WriteLine("[Example plugin] - loader");
+            Console.WriteLine("[Example plugin] - loaded");
             Console.WriteLine("[Example plugin] - загрузился");
         }
 
