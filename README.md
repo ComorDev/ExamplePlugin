@@ -1,0 +1,2 @@
+# ExamplePlugin
+ExamplePlugin for MiNET
